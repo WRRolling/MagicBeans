@@ -20,7 +20,7 @@ The R scripts include:
 2) MakePhenotypeViolinPlots.R - Analyses used to create Supplemental Figure 1
 3) SKtrainingpop.R - Analyses used to create Supplemental Table 1
 4) UStrainingpop.R - Analyses used to create Supplemental Table 1
-5) GRIN_germplasm_as_training_pop.R - Analyses used to create Supplemental Table 1
+5) GRINtrainingpop.R - Analyses used to create Supplemental Table 1
 6) CombineTwopanelstoTrain.R - Analyses used to create Supplemental Table 1
 7) USGRIN.Train2016SK.R - Analyses used to create Supplemental Table 1
 8) 2016SKvalidate.R - Analyses used to create Supplemental Table 1
