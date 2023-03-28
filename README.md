@@ -1,6 +1,6 @@
 # MagicBeans
 
-The files in these directories respresent the analyses and data used in the manuscript" The effect of genetic distance and genetic diversity on genomic prediction accuracy for soybean quantitative disease resistance to Phytophthora sojae"
+The files in these directories respresent the analyses and data used in the manuscript "The effect of genetic distance and genetic diversity on genomic prediction accuracy for soybean quantitative disease resistance to Phytophthora sojae"
 ---------------------------------------------------------------------------------------
 The data includes:
 ---------------------------------------------------------------------------------------
