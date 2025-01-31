@@ -1,6 +1,9 @@
 # MagicBeans
 
 The files in these directories respresent the analyses and data used in the manuscript "The effect of genetic distance and genetic diversity on genomic prediction accuracy for soybean quantitative disease resistance to Phytophthora sojae"
+
+Rolling, W. R., Lake, R., Dorrance, A. E., & McHale, L. K. (2024). The Effects of Genetic Distance and Genetic Diversity on Genomic Prediction Accuracy for Soybean Quantitative Disease Resistance to Phytophthora sojae. PhytoFrontiers™, PHYTOFR-07. https://doi.org/10.1094/PHYTOFR-07-23-0093-SC
+
 ---------------------------------------------------------------------------------------
 The data includes:
 ---------------------------------------------------------------------------------------
